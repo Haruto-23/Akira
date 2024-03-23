@@ -1,0 +1,6 @@
+git init
+git add .
+git comit -m "materi 1-3"
+git branch -M main
+git remote add origin https://github.com/Haruto-23/dart-batch4.git
+git push -u origin main
