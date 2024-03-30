@@ -48,4 +48,4 @@ num LTrapesium(num a,num b,num t){
 num Llingkaran(num r){
   num L = 3.14*r*r;
   return L;
-}
+} 
